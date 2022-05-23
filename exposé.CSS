@@ -1,0 +1,29 @@
+#cicle
+{
+   
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+    border-radius: 50px;
+}
+table{
+    border-radius: 10px;
+
+}
+.ligne{
+    text-decoration: floralwhite;
+}
+.bordure
+{
+    border-style:double ;
+    border-color: red;
+}
+.ko{
+    border-style: groove;
+}
+.N{
+    list-style-type: none;
+}
+.j{
+    border-style: double;
+}
